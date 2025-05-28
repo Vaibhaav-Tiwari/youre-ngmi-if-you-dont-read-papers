@@ -49,7 +49,6 @@ A curated collection of research papers with analysis and implementations. This 
 
 ### [Playing Atari with Deep Reinforcement Learning](https://github.com/Vaibhaav-Tiwari/youre-ngmi-if-you-dont-read-papers/tree/main/playing-atari-with-deep-reinforcement-learning)
 **Original Paper:** [Link to paper](https://arxiv.org/abs/1312.5602)
-
 **Status:** Read | Analysed  
 **Description:** introduced DQN
 
