@@ -3,29 +3,15 @@
 A curated collection of research papers with analysis and implementations. This repository serves as my personal journey through various aspects of ml, dl, rl and systems.
 
 
-## Machine Learning/Classics
+## Classics/ Machine Learning/ Deep Learning/Transformer Based Models
 
-### [Paper Title Here](./machine-learning/paper-folder-name)
-**Original Paper:** [Link to paper](https://arxiv.org/abs/paper-id)  
+### [Efficient Estimation of Word Representations in Vector Space](./deep-learning/paper-folder-name)
+**Original Paper:** [Link to paper](https://arxiv.org/abs/1301.3781)  
 **Status:**   
 **Description:** 
 
-### [Another ML Paper](./machine-learning/another-paper-folder)
-**Original Paper:** [Link to paper](https://arxiv.org/abs/paper-id)  
-**Status:** 
-**Description:** 
-
----
-
-## Deep Learning/Transformer Based Models
-
-### [Paper Title Here](./deep-learning/paper-folder-name)
-**Original Paper:** [Link to paper](https://arxiv.org/abs/paper-id)  
-**Status:**   
-**Description:** 
-
-### [Another DL Paper](./deep-learning/another-paper-folder)
-**Original Paper:** [Link to paper](https://arxiv.org/abs/paper-id)  
+### [Generative Adversarial Nets](./deep-learning/another-paper-folder)
+**Original Paper:** [Link to paper](https://papers.nips.cc/paper_files/paper/2014/hash/f033ed80deb0234979a61f95710dbe25-Abstract.html)  
 **Status:**   
 **Description:** 
 
@@ -40,7 +26,7 @@ A curated collection of research papers with analysis and implementations. This 
 
 ### The Era of Experience
 **Original Paper:** [Link to paper](https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf)  
-**Status:**  Read | Analysed
+**Status:**  Read | Analysed                                                                                                     
 **Description:** the paper that got me interested in RL. Explained the reward system and how streams of experience work in an enviornment. 
 
 ### [Policy Gradient Methods for Reinforcement Learning with Function Approximation ](./reinforcement-learning/another-rl-folder)
