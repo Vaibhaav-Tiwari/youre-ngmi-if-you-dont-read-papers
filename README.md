@@ -3,45 +3,31 @@
 A curated collection of research papers with analysis and implementations. This repository serves as my personal journey through various aspects of ml, dl, rl and systems.
 
 
-## Classics
-
-### [Foundational Paper Title](./classics/paper-folder-name)
-**Original Paper:** [Link to paper](https://doi.org/paper-doi)  
-**Status:** Read | Implemented | Notes  
-**Description:** Brief description of this foundational work and its impact.
-
-### [Another Classic Paper](./classics/another-classic-folder)
-**Original Paper:** [Link to paper](https://doi.org/paper-doi)  
-**Status:** Read | Implemented | Notes  
-**Description:** Brief description of this foundational work and its impact.
-
----
-
-## Machine Learning
+## Machine Learning/Classics
 
 ### [Paper Title Here](./machine-learning/paper-folder-name)
 **Original Paper:** [Link to paper](https://arxiv.org/abs/paper-id)  
-**Status:** Read | Implemented | Notes  
-**Description:** Brief description of the paper and its contributions.
+**Status:**   
+**Description:** 
 
 ### [Another ML Paper](./machine-learning/another-paper-folder)
 **Original Paper:** [Link to paper](https://arxiv.org/abs/paper-id)  
-**Status:** Read | Implemented | Notes  
-**Description:** Brief description of the paper and its contributions.
+**Status:** 
+**Description:** 
 
 ---
 
-## Deep Learning
+## Deep Learning/Transformer Based Models
 
 ### [Paper Title Here](./deep-learning/paper-folder-name)
 **Original Paper:** [Link to paper](https://arxiv.org/abs/paper-id)  
-**Status:** Read | Implemented | Notes  
-**Description:** Brief description of the paper and its contributions.
+**Status:**   
+**Description:** 
 
 ### [Another DL Paper](./deep-learning/another-paper-folder)
 **Original Paper:** [Link to paper](https://arxiv.org/abs/paper-id)  
-**Status:** Read | Implemented | Notes  
-**Description:** Brief description of the paper and its contributions.
+**Status:**   
+**Description:** 
 
 ---
 
@@ -52,21 +38,26 @@ A curated collection of research papers with analysis and implementations. This 
 **Status:** Read | Analysed  
 **Description:** introduced DQN
 
-### [Another RL Paper](./reinforcement-learning/another-rl-folder)
-**Original Paper:** [Link to paper](https://arxiv.org/abs/paper-id)  
-**Status:** Read | Implemented | Notes  
-**Description:** Brief description of the RL algorithm or technique.
+### The Era of Experience
+**Original Paper:** [Link to paper](https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf)  
+**Status:**  Read | Analysed
+**Description:** the paper that got me interested in RL. Explained the reward system and how streams of experience work in an enviornment. 
+
+### [Policy Gradient Methods for Reinforcement Learning with Function Approximation ](./reinforcement-learning/another-rl-folder)
+**Original Paper:** [Link to paper](https://proceedings.neurips.cc/paper_files/paper/1999/file/464d828b85b0bed98e80ade0a5c43b0f-Paper.pdf)  
+**Status:**  
+**Description:** 
 
 ---
 
 ## Systems
 
-### [Systems Paper Title](./systems/paper-folder-name)
-**Original Paper:** [Link to paper](https://arxiv.org/abs/paper-id)  
-**Status:** Read | Implemented | Notes  
-**Description:** Brief description of the systems contribution or architecture.
+### [Monolith: Real Time Recommendation System With Collisionless Embedding Table](./systems/paper-folder-name)
+**Original Paper:** [Link to paper](https://arxiv.org/pdf/2209.07663)  
+**Status:**   
+**Description:** 
 
-### [Another Systems Paper](./systems/another-systems-folder)
-**Original Paper:** [Link to paper](https://arxiv.org/abs/paper-id)  
-**Status:** Read | Implemented | Notes  
-**Description:** Brief description of the systems contribution or architecture.
+### [FlexiRaft: Flexible Quorums with Raft](./systems/another-systems-folder)
+**Original Paper:** [Link to paper](https://www.cidrdb.org/cidr2023/papers/p83-yadav.pdf)  
+**Status:**   
+**Description:** 
