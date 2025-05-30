@@ -7,7 +7,7 @@ A curated collection of research papers with analysis and implementations. This 
 
 ### [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://github.com/Vaibhaav-Tiwari/youre-ngmi-if-you-dont-read-papers/tree/main/retrieval-augmented-generation-for-knowledge-intensive-NLP-tasks)
 **Original Paper:** [Link to paper](https://arxiv.org/abs/2005.11401)  
-**Status:** Read | Analysed | Implemented
+**Status:** Read | Analysed | Implemented                                            
 **Description:** paper that introduced RAG. contains the two formulations of RAG that were introduced RAG-S and RAG-T
 
 ### [Efficient Estimation of Word Representations in Vector Space](./deep-learning/paper-folder-name)
