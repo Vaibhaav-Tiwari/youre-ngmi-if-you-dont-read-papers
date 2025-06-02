@@ -10,6 +10,11 @@ A curated collection of research papers with analysis and implementations. This 
 **Status:** Read | Analysed | Implemented                                            
 **Description:** paper that introduced RAG. contains the two formulations of RAG that were introduced RAG-S and RAG-T
 
+### [Natural Machine Translation of Rare Words with Subword Units](https://github.com/Vaibhaav-Tiwari/youre-ngmi-if-you-dont-read-papers/tree/main/natural-machine-translation-of-rare-words-with-subword-units)
+**Original Paper:** [Link to paper](https://arxiv.org/pdf/1508.07909)  
+**Status:**   Read | Analyzed
+**Description:** the paper to understand how byte pair encoding works for tokenization
+
 ### [Efficient Estimation of Word Representations in Vector Space](./deep-learning/paper-folder-name)
 **Original Paper:** [Link to paper](https://arxiv.org/abs/1301.3781)  
 **Status:**   
