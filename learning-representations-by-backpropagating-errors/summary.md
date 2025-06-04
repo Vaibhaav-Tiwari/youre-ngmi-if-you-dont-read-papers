@@ -17,7 +17,6 @@ The process involves a network of interconnected "units" (like simplified neuron
 ### 2. Forward Pass (Calculating Outputs)
 
 *   **Input to a unit**: For any unit $j$, its total input ($x_j$) is calculated by taking the outputs ($y_i$) from all connected units $i$ in the previous layer and multiplying them by their respective connection weights ($w_{ji}$), then summing these up.
-    *   **Formula**:
         ```math
         x_j = \sum_i y_i \cdot w_{ji}
         ```
