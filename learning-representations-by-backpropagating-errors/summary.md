@@ -21,9 +21,11 @@ The process involves a network of interconnected "units" (like simplified neuron
         x_j = \sum_i y_i \cdot w_{ji}
         ```
 *   **Output of a unit**: This calculated input ($x_j$) is then fed into a **non-linear function** (specifically, the **logistic function**) to produce the unit's output ($y_j$). This function squashes the output into a range between 0 and 1.
-    *   **Formula**: $$
+    *   **Formula**:
+    *    ```math
         y_j = \frac{1}{1 + e^{-x_j}}
-        $$
+        
+        ```
 *   Each unit also has a "bias," which acts like a weight from a unit that always outputs 1.
 
 ### 3. Backward Pass (Learning from Errors - Back-propagation)
