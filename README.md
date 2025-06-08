@@ -57,3 +57,10 @@ A curated collection of research papers with analysis and implementations. This 
 **Original Paper:** [Link to paper](https://www.cidrdb.org/cidr2023/papers/p83-yadav.pdf)  
 **Status:**   
 **Description:** 
+
+## Miscellaneous
+
+### [Bitcoin: A Peer-2-Peer Electronic Cash System](https://github.com/Vaibhaav-Tiwari/youre-ngmi-if-you-dont-read-papers/tree/main/bitcoin-a-peer-to-peer-electronic-cash-system)
+**Original Paper:** [Link to paper](https://bitcoin.org/bitcoin.pdf)  
+**Status:** Read | Analyzed    
+**Description:** the white paper that introduced bitcoin, was a must read to understand proof-of-work and why we need 0s in front of the hash
