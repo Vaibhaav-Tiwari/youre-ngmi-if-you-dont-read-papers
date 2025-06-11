@@ -20,6 +20,11 @@ A curated collection of research papers with analysis and implementations. This 
 **Status:** Read | Analysed      
 **Description:** the original paper that introduced the concept of backprop to reduce the internal faced by neural nets 
 
+### [Airavata: Introducing Hindi Instruction Tuned LLM](https://github.com/Vaibhaav-Tiwari/youre-ngmi-if-you-dont-read-papers/tree/main/airavata-introducing-hindi-instruction-tuned-llm)
+**Original Paper:** [Link to paper](https://arxiv.org/pdf/2401.15006)  
+**Status:** Read | Analysed    
+**Description:** introduced airavata built upon openhathi which in turn is built upon llama2
+
 ### [Generative Adversarial Nets](./deep-learning/another-paper-folder)
 **Original Paper:** [Link to paper](https://papers.nips.cc/paper_files/paper/2014/hash/f033ed80deb0234979a61f95710dbe25-Abstract.html)  
 **Status:**   
