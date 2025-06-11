@@ -44,10 +44,6 @@ A curated collection of research papers with analysis and implementations. This 
 **Status:**  Read | Analysed                                                                                                     
 **Description:** the paper that got me interested in RL. Explained the reward system and how streams of experience work in an enviornment. 
 
-### [Policy Gradient Methods for Reinforcement Learning with Function Approximation ](./reinforcement-learning/another-rl-folder)
-**Original Paper:** [Link to paper](https://proceedings.neurips.cc/paper_files/paper/1999/file/464d828b85b0bed98e80ade0a5c43b0f-Paper.pdf)  
-**Status:**  
-**Description:** 
 
 ---
 
