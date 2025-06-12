@@ -52,12 +52,7 @@ A curated collection of research papers with analysis and implementations. This 
 ### [Monolith: Real Time Recommendation System With Collisionless Embedding Table](./systems/paper-folder-name)
 **Original Paper:** [Link to paper](https://arxiv.org/pdf/2209.07663)  
 **Status:**   
-**Description:** 
-
-### [FlexiRaft: Flexible Quorums with Raft](./systems/another-systems-folder)
-**Original Paper:** [Link to paper](https://www.cidrdb.org/cidr2023/papers/p83-yadav.pdf)  
-**Status:**   
-**Description:** 
+**Description:**  
 
 ## Miscellaneous
 
