@@ -69,3 +69,8 @@ A curated collection of research papers with analysis and implementations. This 
 **Original Paper:** [Link to paper](https://bitcoin.org/bitcoin.pdf)  
 **Status:** Read | Analyzed    
 **Description:** the white paper that introduced bitcoin, was a must read to understand proof-of-work and why we need 0s in front of the hash
+
+### [Bittensor: A peer-2-peer intelligence market](https://github.com/Vaibhaav-Tiwari/youre-ngmi-if-you-dont-read-papers/tree/main/bittensor-a-p2p-intelligence-market)
+**Original Paper:** [Link to paper](https://bittensor.com/whitepaper)  
+**Status:** Read | Analyzed    
+**Description:** the white paper that introduced bittensor, was a must read to understand the methods introduced for incentivizing
