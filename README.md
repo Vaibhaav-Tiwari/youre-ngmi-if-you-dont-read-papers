@@ -19,9 +19,7 @@ A curated collection of research papers with analysis and implementations. This 
 ### [Attention is all you need](https://github.com/Vaibhaav-Tiwari/youre-ngmi-if-you-dont-read-papers/tree/main/attention-is-all-you-need)
 **Original Paper:** [Link to paper](https://arxiv.org/pdf/1706.03762)  
 **Status:**   Read | Analyzed | Blog Soon             
-**Description:** the paper that introduced tranformer model, need to read bahdanau paper's too to understnd attention more
-
-https://github.com/Vaibhaav-Tiwari/youre-ngmi-if-you-dont-read-papers/tree/main/attention-is-all-you-need
+**Description:** the paper that introduced tranformer model, need to read bahdanau paper's too to undersatnd attention more
 
 ### [Learning Representations by Back-propagating Errors](https://github.com/Vaibhaav-Tiwari/youre-ngmi-if-you-dont-read-papers/tree/main/learning-representations-by-backpropagating-errors)
 **Original Paper:** [Link to paper](https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf)  
