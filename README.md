@@ -2,6 +2,7 @@
 
 A curated collection of research papers with analysis and implementations. This repository serves as my personal journey through various aspects of ml, dl, rl and systems.
 
+### How to read a paper -> [Concept of Passes](https://github.com/Vaibhaav-Tiwari/youre-ngmi-if-you-dont-read-papers/blob/main/how_to_read_a_paper.pdf)
 
 ## Classics/ Machine Learning/ Deep Learning/Transformer Based Models
 
@@ -14,6 +15,13 @@ A curated collection of research papers with analysis and implementations. This 
 **Original Paper:** [Link to paper](https://arxiv.org/pdf/1508.07909)  
 **Status:**   Read | Analyzed        
 **Description:** the paper to understand how byte pair encoding works for tokenization
+
+### [Attention is all you need](https://github.com/Vaibhaav-Tiwari/youre-ngmi-if-you-dont-read-papers/tree/main/attention-is-all-you-need)
+**Original Paper:** [Link to paper](https://arxiv.org/pdf/1706.03762)  
+**Status:**   Read | Analyzed | Blog Soon             
+**Description:** the paper that introduced tranformer model, need to read bahdanau paper's too to understnd attention more
+
+https://github.com/Vaibhaav-Tiwari/youre-ngmi-if-you-dont-read-papers/tree/main/attention-is-all-you-need
 
 ### [Learning Representations by Back-propagating Errors](https://github.com/Vaibhaav-Tiwari/youre-ngmi-if-you-dont-read-papers/tree/main/learning-representations-by-backpropagating-errors)
 **Original Paper:** [Link to paper](https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf)  
